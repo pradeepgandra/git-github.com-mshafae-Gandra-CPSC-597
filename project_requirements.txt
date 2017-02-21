@@ -1,0 +1,59 @@
+Project Requirements:
+Functional Requirements:
+In this functional requirements first one is
+STUDENT:-
+In this student module I am going to add students by using their
+      1)student_id
+      2)first_name
+      3)last_name
+      4)gender
+      5)email_id
+      6)address
+      7)phone_number
+      8)Notes
+BOOKS:-
+In this books module I am going to add books by
+      1)Book_title
+      2)Book_id
+      3)Author_name
+      4)Publisher
+      5)Published_year
+      6)Edition
+      7)Notes
+LIBRARIAN:-
+In this module we have
+      1)librarian_id
+      2)first_name
+      3)last_name
+      4)email_id
+      5)Notes
+LENDING:-
+In this lending module we have
+      1)lending_id
+      2)Book_id
+      3)librarian_id
+      4)student_id
+      5)barrowed_datetime
+      6)due_date
+      7)returned_datetime
+      8)Notes
+FINES:-
+In this module we have 
+      1)student_id
+      2)lending_id
+      3)librarin_id
+      4)fine_amount
+      5)Notes
+SOFTWARE REQUIREMENTS:-
+
+In this project for coding I am going to use SQL and HTML
+I am going to use WAMPSERVER 5.0 as integrated devolpment environment.
+For DATABASE I am going to use MYSQL.
+I am using WINDOWS 7 as the opertaing system.
+
+HARDWARE REQUIREMENTS:-
+
+I am using Pentium 4 or better version for sysytem purpose.
+I am using 6GB RAM and 500GB Hard Disk.
+
+      
