@@ -1,0 +1,16 @@
+Project Plan:-
+
+In this I am going to implement 5 modules
+   1)Student
+   2)Books
+   3)librarian
+   4)Lending
+   5)Fines
+To implement first module I am giong to spend 30hours.In this 30hrs I am going to work on traing and coding part of student module.
+For senod module also I am going to spend 30hrs to implement coding part.
+similarly for third module also I am going to spend 30hours to implement the coding part.
+For fourth and fifth module also I am giong spend 30 hours.
+afterthat for designing webpages I will spend 30 hours.
+For documentation part I will spend 36hours.
+Finally I am going to spend total 216 hrs to finish my project.this is the estimated time to finish my project but in some modules it wiil take more time
+and in some modules it will take less time. 
